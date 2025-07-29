@@ -15,6 +15,24 @@ namespace EduSphere.Admin
     {
 
         /// <summary>
+        /// SearchUsersTextBox control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox SearchUsersTextBox;
+
+        /// <summary>
+        /// SearchUsersButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button SearchUsersButton;
+
+        /// <summary>
         /// UsersGridView control.
         /// </summary>
         /// <remarks>
